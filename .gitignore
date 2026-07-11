@@ -1,0 +1,6 @@
+.DS_Store
+*.pcap
+!mixed_traffic.pcap
+!dns.pcap
+!udp.pcap
+!test_dpi.pcap

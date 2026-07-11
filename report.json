@@ -1,0 +1,53 @@
+{
+  "engineStats": {
+    "totalPackets": 77,
+    "totalBytes": 5738,
+    "tcpPackets": 77,
+    "udpPackets": 0,
+    "forwardedPackets": 75,
+    "droppedPackets": 2
+  },
+  "connectionStats": {
+    "activeConnections": 43,
+    "totalConnectionsSeen": 43,
+    "blockedConnections": 2
+  },
+  "appBreakdown": [
+    { "app": "UNKNOWN", "count": 25, "blocked": false },
+    { "app": "TWITTER", "count": 3, "blocked": false },
+    { "app": "HTTPS", "count": 2, "blocked": false },
+    { "app": "GOOGLE", "count": 1, "blocked": false },
+    { "app": "FACEBOOK", "count": 1, "blocked": false },
+    { "app": "YOUTUBE", "count": 1, "blocked": true },
+    { "app": "INSTAGRAM", "count": 1, "blocked": false },
+    { "app": "AMAZON", "count": 1, "blocked": false },
+    { "app": "APPLE", "count": 1, "blocked": false },
+    { "app": "TELEGRAM", "count": 1, "blocked": false },
+    { "app": "TIKTOK", "count": 1, "blocked": true },
+    { "app": "SPOTIFY", "count": 1, "blocked": false },
+    { "app": "ZOOM", "count": 1, "blocked": false },
+    { "app": "DISCORD", "count": 1, "blocked": false },
+    { "app": "GITHUB", "count": 1, "blocked": false },
+    { "app": "CLOUDFLARE", "count": 1, "blocked": false }
+  ],
+  "topDomains": [
+    { "domain": "www.facebook.com", "count": 1 },
+    { "domain": "twitter.com", "count": 1 },
+    { "domain": "discord.com", "count": 1 },
+    { "domain": "github.com", "count": 1 },
+    { "domain": "zoom.us", "count": 1 },
+    { "domain": "open.spotify.com", "count": 1 },
+    { "domain": "www.apple.com", "count": 1 },
+    { "domain": "www.netflix.com", "count": 1 },
+    { "domain": "www.amazon.com", "count": 1 },
+    { "domain": "web.telegram.org", "count": 1 },
+    { "domain": "www.instagram.com", "count": 1 },
+    { "domain": "www.cloudflare.com", "count": 1 },
+    { "domain": "www.google.com", "count": 1 },
+    { "domain": "www.youtube.com", "count": 1 },
+    { "domain": "www.microsoft.com", "count": 1 },
+    { "domain": "example.com", "count": 1 },
+    { "domain": "www.tiktok.com", "count": 1 },
+    { "domain": "httpbin.org", "count": 1 }
+  ]
+}
