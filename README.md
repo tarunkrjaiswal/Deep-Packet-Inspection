@@ -92,13 +92,3 @@ Even though HTTPS traffic is encrypted, the very first packet sent by the client
 This engine intercepts this packet, traverses the TLS record header, skips the session IDs and cipher suites, and scans the extensions payload for the `0x0000` (Server Name Indication) extension to extract the target domain (e.g., `www.youtube.com`). This allows the engine to accurately identify and block HTTPS applications without breaking end-to-end encryption.
 
 ---
-
-## 🎨 Portfolio & Deployment Notes
-
-The React dashboard is entirely statically generated and decoupled from a live backend API, making it perfectly suited for free static hosting platforms like **Vercel**, **Netlify**, or **GitHub Pages**. 
-
-To deploy:
-1. Run the Java Engine locally to populate the `src/report.json` with sample data.
-2. Push the repository to GitHub.
-3. Import the `dashboard` folder into Vercel. 
-4. The site will instantly build and serve the beautiful visualizer to recruiters worldwide!
