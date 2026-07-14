@@ -1,8 +1,6 @@
-# Deep Packet Inspection (DPI) Engine
+# Overview
 
 A professional, high-performance Deep Packet Inspection (DPI) Engine written in **Java** with a stunning, static-ready **React & Vite** dashboard for real-time traffic visualization.
-
-## 📖 Overview
 
 Deep Packet Inspection (DPI) is a technology used by ISPs and enterprise networks to examine the contents of network packets as they pass through a checkpoint. Unlike simple firewalls that only look at Layer 3/4 headers (IP/Port), this DPI engine looks deep into the **Layer 7 Application payload** to identify and control traffic based on applications and domains.
 
