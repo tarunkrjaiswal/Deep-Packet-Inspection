@@ -4,23 +4,23 @@
     "totalBytes": 8628,
     "tcpPackets": 73,
     "udpPackets": 54,
-    "forwardedPackets": 71,
-    "droppedPackets": 56
+    "forwardedPackets": 124,
+    "droppedPackets": 3
   },
   "connectionStats": {
     "activeConnections": 44,
     "totalConnectionsSeen": 44,
-    "blockedConnections": 7
+    "blockedConnections": 3
   },
   "appBreakdown": [
-    { "app": "UNKNOWN", "count": 22, "blocked": true },
+    { "app": "UNKNOWN", "count": 22, "blocked": false },
     { "app": "DNS", "count": 4, "blocked": true },
     { "app": "TWITTER", "count": 3, "blocked": false },
     { "app": "HTTPS", "count": 2, "blocked": false },
     { "app": "GOOGLE", "count": 1, "blocked": false },
-    { "app": "FACEBOOK", "count": 1, "blocked": false },
+    { "app": "FACEBOOK", "count": 1, "blocked": true },
     { "app": "YOUTUBE", "count": 1, "blocked": true },
-    { "app": "INSTAGRAM", "count": 1, "blocked": true },
+    { "app": "INSTAGRAM", "count": 1, "blocked": false },
     { "app": "AMAZON", "count": 1, "blocked": false },
     { "app": "APPLE", "count": 1, "blocked": false },
     { "app": "TELEGRAM", "count": 1, "blocked": false },
