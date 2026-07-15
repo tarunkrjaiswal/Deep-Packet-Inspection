@@ -4,8 +4,6 @@ A professional, high-performance Deep Packet Inspection (DPI) Engine written in 
 
 ---
 
----
-
 ## 📁 Project Structure
 
 To help you navigate the codebase, here is a quick breakdown of the main folders and files:
