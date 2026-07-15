@@ -1,6 +1,6 @@
 # Deep Packet Inspection (DPI) Engine & Dashboard
 
-A professional, high-performance Deep Packet Inspection (DPI) Engine written in **Java** with a stunning, static-ready **React & Vite** dashboard for real-time traffic visualization. Read the full docs on **[GitBook](https://tarunkrjaiswal.github.io/Deep-Packet-Inspection/)**
+A professional, high-performance Deep Packet Inspection (DPI) Engine written in **Java** with a stunning, static-ready **React & Vite** dashboard for real-time traffic visualization. Read the full docs on **[GitBook](https://tarun-projects.gitbook.io/dpi)**
 
 ---
 
